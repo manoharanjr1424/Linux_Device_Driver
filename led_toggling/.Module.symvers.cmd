@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Documents/linux_kernel_driver/led_toggling/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/Documents/linux_kernel_driver/led_toggling/Module.symvers -T /home/pi/Documents/linux_kernel_driver/led_toggling/modules.order -i Module.symvers -e 
